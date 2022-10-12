@@ -1,0 +1,1 @@
+funny and positive web3 tbilisi bootcamp at 2022 By pyme.

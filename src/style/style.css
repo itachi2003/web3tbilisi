@@ -1,0 +1,34 @@
+body{
+  background-color: #000000;
+}
+
+.lineara{
+  background: linear-gradient(91.84deg, #f71a1f -24.46%, #ddff12 117.99%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  }
+
+.Minti{
+  background: linear-gradient(91.84deg, #f71a1f -24.46%, #ddff12 117.99%);
+  }
+
+  .Minti:hover{
+    background: rgba(255, 255, 255, 0.5);
+  }
+
+  .Jokes{
+    color:red;
+    font-size: 5vw;
+    text-align: center;
+  }
+  .jokelist{
+    width: 80vw;
+    margin-left: 5vw;
+    height: 5vh;
+  }
+
+  
+
+
+  
