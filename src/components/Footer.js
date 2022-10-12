@@ -9,6 +9,15 @@ const Footer =() => {
     <div class="jokelist bg-white shadow rounded">
       w-96
   </div>
+  <div class="jokelist bg-white shadow rounded ">
+      w-96
+  </div>
+  <div class="jokelist bg-white shadow rounded ">
+      w-96
+  </div>
+  <div class="jokelist bg-white shadow rounded ">
+      w-96
+  </div>
     </>
   )
 }
