@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xEb82b8b1Ec4EdD6319f38A5A7bA7D7cC5D67Ff65",
-  "SCAN_LINK": "https://polygonscan.com/token/0xeb82b8b1ec4edd6319f38a5a7ba7d7cc5d67ff65",
+  "CONTRACT_ADDRESS": "0xB72a42dDC8Eff582826626B106C6e132047D5E6a",
+  "SCAN_LINK": "https://polygonscan.com/token/0xb72a42ddc8eff582826626b106c6e132047d5e6a",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -9,7 +9,7 @@
   "NFT_NAME": "smile",
   "SYMBOL": "Smile",
   "MAX_SUPPLY": 7,
-  "WEI_COST": 1000000000000000000,
+  "WEI_COST": 2000000000000000,
   "DISPLAY_COST": 0.002,
   "GAS_LIMIT": 285100,
   "MARKETPLACE": "Opeansea",

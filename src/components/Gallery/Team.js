@@ -23,7 +23,7 @@ const Team = () => {
             Target="blank"
           />
           <OneTeam
-            properties="Properties : Positive Humans - Bilal"
+            properties="Properties : Positive Humans - BiLaL"
             Fullname="Pojitibu #2"
             image={p2}
             imgwidth="1xl:w-[336px] 1xl:h-[251px] 0xl:w-[249px] 0xl:h-[186px] small:w-[214px] small:h-[174px]"

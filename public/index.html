@@ -17,7 +17,7 @@
     <p style="color:white" >Wallet Address - <span id="wallet-address"></span></p>
   <button style="color: white" id="connectWallet">Connect</button>
   <button style="color: white;" id="reveal">Show Secret</button>
-  <p style="color: white;" >Secret message - <span id="secret"></span></p>
+  <!-- <p style="color: white;" >Secret message - <span id="secret"></span></p> -->
 
   <script type="text/javascript">
     // 1. Connect metamask to our site. Get the user's address
@@ -42,7 +42,8 @@
       var res = await fetch('/secret?signature=' + signature)
       var body = await res.text()
 
-      document.getElementById('secret').innerHTML = body
+      // lionის idით რო გამოჩნდეს და დაემატოს იმ 4ს.
+      document.getElementById('lion').innerHTML = body
     }
 
     document.getElementById('connectWallet').onclick = connect
